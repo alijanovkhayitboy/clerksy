@@ -1,0 +1,41 @@
+
+.container-1{
+    width: 100%;
+    height: 550px;
+    padding: 130px 130px;
+    background-image: url(../img/back.png);
+    background-repeat: no-repeat;
+    background-position: top right 86px;
+    background-color: #163A24;
+    
+    
+    display: flex;
+    justify-content: flex-start;
+    align-items: start;
+    flex-direction: column;
+   
+}
+
+
+
+.title{
+    width: 391px;
+    height: 196px;
+    font-weight: 600;
+    font-size: 38px;
+    font-family: 'IBM Plex Mono', monospace;
+    line-height: 65px;
+    color: #FBFAF7;
+}
+
+
+
+.title-info{
+    width: 475px;
+    height: 81px;
+    font-weight: 400;
+    font-size:16px;
+    font-family: 'IBM Plex Mono', monospace;
+    line-height: 18px;
+    color: #FBFAF7;
+}

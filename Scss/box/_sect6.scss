@@ -1,0 +1,339 @@
+.sect6 {
+    background-color: #F2EFE6;
+    background-image: url(../img/vect1.png), url(../img/vect2.png), url(../img/vect3.png);
+    background-repeat: no-repeat;
+    background-position: top 200px right 200px, top 270px right 520px, top 270px left 520px;
+}
+
+
+
+
+.container-6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 114px 130px;
+}
+
+.sect6-title {
+    height: 54px;
+    width: 460px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 37px;
+    font-weight: 600;
+    line-height: 54px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.sect6-info {
+    margin: 30px 0px;
+    height: 27px;
+    width: 527px;
+    font-family: 'Noto Sans';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: center;
+
+
+}
+
+.sect6-links {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+
+.sect6-item {
+    margin: 0px 65px 46px 65px;
+
+}
+
+.sect6-item-p {
+    height: 54px;
+    width: 260px;
+    font-family: 'Noto Sans';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #163A24;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+
+}
+
+.sect6-item-p span {
+    height: 32px;
+    width: 160px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: center;
+
+
+}
+
+
+.sect6-btn {
+    height: 52px;
+    width: 244px;
+    border: 1px solid transparent;
+    border-radius: 160px;
+    background: #198C36;
+    font-family: 'Noto Sans';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FBFAF7;
+    transition: all 0.5s ease 0s;
+
+
+
+}
+
+.sect6-btn:hover {
+    background: transparent;
+    border: 1px solid #198C36;
+    color: #198C36;
+}
+
+
+.sect7 {
+    width: 100%;
+    height: 753px;
+    background-color: #E5E5E5;
+    padding: 120px 130px;
+    background-image: url(../img/book.png);
+    background-repeat: no-repeat;
+    background-position: center right 200px;
+
+}
+
+
+.container-7 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    padding: 136px 0px 0px 0px;
+
+}
+
+.sect7-title {
+    width: 390px;
+    height: 108px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 54px;
+    color: #163A24;
+
+}
+
+
+.sect7-p {
+    margin: 25px 0px;
+    height: 27px;
+    width: 287px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #163A24;
+
+}
+
+.sect7-btn {
+    height: 52px;
+    width: 244px;
+    border: 1px solid transparent;
+    border-radius: 160px;
+    background: #198C36;
+    font-family: 'Noto Sans';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FBFAF7;
+    transition: all 0.5s ease 0s;
+}
+
+
+.sect7-btn:hover {
+    background: transparent;
+    border: 1px solid #198C36;
+    color: #198C36;
+}
+
+
+
+
+.sect8 {
+    width: 100%;
+    height: 415px;
+    background-color: #163A24;
+    background-image: url(../img/backleft.png), url(../img/backright.png);
+    background-repeat: no-repeat;
+    background-position: left, right;
+}
+
+
+.container-8 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.sect8-title {
+    margin-top: 114px;
+    width: 550px;
+    height: 38px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 34px;
+    color: #ffffff;
+}
+
+
+.sect8-p {
+    margin: 28px 0px;
+    height: 27px;
+    width: 360px;
+    text-align: center;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #ffffff;
+}
+
+
+
+.sect8-btn {
+    height: 52px;
+    width: 244px;
+    border: 1px solid transparent;
+    border-radius: 160px;
+    background: #FAB5A0;
+    font-family: 'Noto Sans';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #163A24;
+    transition: all 0.5s ease 0s;
+}
+
+
+.sect8-btn:hover {
+    background: transparent;
+    border: 1px solid #FAB5A0;
+    color: #FAB5A0;
+}
+
+
+.sect9 {
+    width: 100%;
+    height: 240px;
+    padding: 0px 130px;
+    background-color: #F2EFE6;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+
+.cont-9-title {
+    width: 380px;
+    height: 54px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 44px;
+    color: #163A24;
+}
+
+.cont-9-info {
+
+    height: 27px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #163A24;
+
+}
+
+.cont-9-1 {
+    margin-left: 248px;
+}
+
+.sign-up {
+    width: 590px;
+    height: 50px;
+    border: 1px solid transparent;
+    border-radius: 25px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.cont-9-btn {
+    height: 52px;
+    width: 111px;
+    border: 1px solid transparent;
+    border-radius: 25px;
+    background-color: #198C36;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #FBFAF7;
+
+}
+
+.cont-9-btn:hover {
+    border: 1px solid #198C36;
+    background-color: #F2EFE6;
+    color: #198C36;
+}
+
+.sign-info {
+    margin-top: 20px;
+    width: 524px;
+    height: 42px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #163A24;
+}

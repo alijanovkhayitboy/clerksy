@@ -1,0 +1,89 @@
+footer {
+    width: 100%;
+    height: 194px;
+    padding: 24px 130px;
+}
+
+
+
+
+
+.main-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.footer-title {
+
+    height: 36px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: center;
+    color: #163A24;
+
+}
+
+.footer-links {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.footer-item {
+    margin: 0px 7px;
+}
+
+.hr1 {
+    height: 1px;
+    background-color: #F2EFE6;
+    margin-top: 44px;
+}
+
+
+.second-footer {
+    margin-top: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.second-f-title {
+    height: 21px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #163A24;
+
+}
+
+.second-f-links {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.second-f-item {
+    margin: 0px 7px;
+
+    a {
+        height: 19px;
+        font-family: 'Noto Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 19px;
+        text-align: right;
+        color: #198C36;
+
+    }
+}
